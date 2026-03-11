@@ -221,3 +221,28 @@ Flat: <?php echo $flat; ?>
 <?php
 }
 ?>
+/*CREATE TABLE customers(
+id INT AUTO_INCREMENT PRIMARY KEY,
+customer_name VARCHAR(100),
+mobile_number VARCHAR(20),
+flat_no VARCHAR(20),
+
+area INT,
+rate INT,
+
+carpet_area FLOAT,
+agreement_cost FLOAT,
+
+mseb INT,
+society INT,
+clubhouse INT,
+
+total_paid FLOAT,
+
+stamp_duty INT,
+maintenance INT,
+registration INT,
+
+gst FLOAT,
+total_cost FLOAT
+);*/
